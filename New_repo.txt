@@ -1,2 +1,2 @@
 My first repository in Git.
-Git is a version control tool. 
+Git is a version control tool.It helps to track changes in codes.
